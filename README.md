@@ -1,1 +1,1 @@
-# PRN-FUMiniHotelManagement
+# PRN-Group Project
